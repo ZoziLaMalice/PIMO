@@ -1,5 +1,5 @@
 # PIMO
-Découvrez la rentabilité et le cash flow d’un investissement immobilier en moins de 2 minutes !  
+Découvrez la rentabilité et le cash flow d’un investissement immobilier en moins de 2 minutes !<br/>
 PIMO est l'outil idéal pour vous aider à prendre des décisions éclairées !
 
 # Description
