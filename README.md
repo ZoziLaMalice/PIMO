@@ -13,6 +13,9 @@ Que puis-je faire exactement avec PIMO ?
 4. Comparez les projets ! Vous pouvez faire plusieurs simulations qui seront stockées et vous permettront de comparer différents projets entre eux en un clin d’oeil 
 5. Laissez vous guidez ! Pour les investisseurs qui débutent, de nombreuses explications sont apportées pour vous éclairer sur les différents éléments
 
+# Politique de confidentialité
+<a href="https://www.freeprivacypolicy.com/live/fd07dfd4-7b3f-4d4d-9a4b-100000bd826d" title="PIMO">PIMO</a>
+
 # Remerciements
 <a href="https://www.flaticon.com/free-icons/beaver" title="beaver icons">Beaver icons created by Freepik - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/compass" title="compass icons">Compass icons created by Amethyst prime - Flaticon</a>
