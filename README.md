@@ -18,8 +18,13 @@ Que puis-je faire exactement avec PIMO ?
 
 # Remerciements
 <a href="https://www.flaticon.com/free-icons/beaver" title="beaver icons">Beaver icons created by Freepik - Flaticon</a>
+
 <a href="https://www.flaticon.com/free-icons/compass" title="compass icons">Compass icons created by Amethyst prime - Flaticon</a>
+
 <a href="https://www.flaticon.com/fr/icones-gratuites/cible" title="cible icônes">Cible icônes créées par VitaminRGB - Flaticon</a>
+
 <a href="https://www.flaticon.com/fr/icones-gratuites/residence" title="résidence icônes">Résidence icônes créées par Eucalyp - Flaticon</a>
+
 <a href="https://www.flaticon.com/free-icons/property" title="property icons">Property icons created by surang - Flaticon</a>
+
 <a href="https://www.flaticon.com/fr/icones-gratuites/architecture-et-ville" title="architecture et ville icônes">Architecture et ville icônes créées par chehuna - Flaticon</a>
